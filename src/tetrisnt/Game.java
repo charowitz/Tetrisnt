@@ -2,7 +2,7 @@ package tetrisnt;
 
 public class Game {
 
-	public static void main(String[] args) { //this class will always look like this. Does not need to exist
+	public static void main(String[] args) { //test edit
 		new Frame();
 		//new Trials();
 
